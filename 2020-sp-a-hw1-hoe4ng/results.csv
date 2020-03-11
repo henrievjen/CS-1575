@@ -1,0 +1,2 @@
+Username (not for points),Tests passed (out of 56),Tests passed,Bytes definitely lost (memory leak) (0 is perfect),"Username accurate (0 good, 1 bad)",Main diff (0 is perfect),Time (smaller better)
+hoe4ng,40,assertions: 56 | 40 passed | 16 failed,0,0,0,0.0025449892350070513
